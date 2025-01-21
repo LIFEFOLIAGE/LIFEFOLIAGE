@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/PAF/.vscode
+/PAF/be/foliage/.vscode
+/PAF/fe/foliage-fe/.vscode
+
+/PAF/extra/dump-foliage_extra/foliage_extra_lazio.dmp
+/PAF/extra/dump-foliage_extra/foliage_extra_umbria.dmp
+/.vscode
